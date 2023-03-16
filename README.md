@@ -2,7 +2,7 @@
 
 ![alternative text](img/readme_image.jpg)
 
-#### -- Project Status: [Active]
+#### -- Project Status: [Completed]
 
 ## Objective
 Test the ability to manipulate simple data structures and to implement algorithmic concepts.
