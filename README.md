@@ -14,7 +14,7 @@ Test the ability to manipulate simple data structures and to implement algorithm
 * [python_interview_questions](python_interview_questions.ipynb)
 
 ### Sources
-* Most of the questions come from the book [Ace the Data Science Interview](https://www.acethedatascienceinterview.com/).
+* Most of the questions come from the book [Ace the Data Science Interview](https://www.acethedatascienceinterview.com/)
 
 ### Technologies
 * Python
